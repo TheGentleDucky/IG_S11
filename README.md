@@ -1,4 +1,6 @@
 # IG_S11 - Dispara a Pepe!
+<img width="760" height="604" alt="image" src="https://github.com/user-attachments/assets/d8f18dac-84cf-4916-b8c5-8327ca1d28f7" />
+
 
 https://codesandbox.io/p/sandbox/busy-fermat-y9v8r9
 ## Descripción
